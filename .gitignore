@@ -1,0 +1,5 @@
+# Ide generated files
+*.idea
+
+# Configuration file
+config.py
